@@ -1,0 +1,3 @@
+[submodule "calico-tigera-operator-helm-chart"]
+	path = calico-tigera-operator-helm-chart
+	url = https://github.com/projectcalico/calico.git
