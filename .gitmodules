@@ -4,3 +4,6 @@
 [submodule "calico"]
 	path = calico
 	url = https://github.com/projectcalico/calico.git
+[submodule "sub1"]
+	path = sub1
+	url = git@github.com:ReSearchITEng/sub1.git
